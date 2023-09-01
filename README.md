@@ -7,7 +7,7 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fffuqingsong&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FuPine&count_private=true&show_icons=true"/>
 
 
 
@@ -16,7 +16,7 @@
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/fffuqingsong/count.svg" />
+<img src="https://profile-counter.glitch.me/FuPine/count.svg" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
